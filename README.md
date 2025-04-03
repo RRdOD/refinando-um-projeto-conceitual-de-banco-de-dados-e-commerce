@@ -30,4 +30,4 @@
 
 - A Entrega está vinculada ao Pedido (1:1) porque um pedido tem um único processo de entrega.
 
-- Endereço e e-mail são entidades pois um cliente poderá cadastrar mais de um endereço (ex.: casa, trabalho, endereço de presente).
+- Endereço e e-mail são entidades pois um cliente poderá cadastrar mais de um endereço (ex.: casa, trabalho, endereço de presente) e e-mail.
