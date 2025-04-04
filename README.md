@@ -2,8 +2,6 @@
 
 ## Projeto elaborado para mostrar de forma gráfica e visual o funcionamento de um banco de dados para E-commerce
 
-## Legendas:
-
 # 📌 Relações e Cardinalidades
 
 |Entidade 1 | Relacionamento | Entidade 2                     |Cardinalidade |	                                   Explicação                                                            |
